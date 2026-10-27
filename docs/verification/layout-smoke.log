@@ -1,0 +1,2 @@
+PASS 320dp width / font 2.0: four screens scroll and controls reachable
+PASS landscape capture; restored default emulator configuration

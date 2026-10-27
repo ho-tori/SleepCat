@@ -1,0 +1,7 @@
+Starting: Intent { cmp=com.sleepcat.app/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.sleepcat.app/.MainActivity
+TotalTime: 1596
+WaitTime: 1599
+Complete

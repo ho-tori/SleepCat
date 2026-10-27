@@ -1,0 +1,3 @@
+package: com.sleepcat.app
+permission: com.sleepcat.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission: name='com.sleepcat.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION'
