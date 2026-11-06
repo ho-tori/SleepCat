@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-06",
+  "command": "assembleDebug testDebugUnitTest connectedDebugAndroidTest lintDebug --offline --console=plain",
+  "result": "BUILD SUCCESSFUL in 46s",
+  "tests": [
+    {
+      "kind": "unit",
+      "suite": "com.sleepcat.app.data.preferences.ThemePreferenceTest",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "kind": "unit",
+      "suite": "com.sleepcat.app.data.prototype.PrototypeRulesTest",
+      "tests": 6,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "kind": "device",
+      "suite": "com.sleepcat.app.NavigationThemeTest",
+      "tests": 13,
+      "failures": 0,
+      "errors": 0
+    }
+  ],
+  "apkSha256": "28cc37a1726a03ca0cf8fc21a78296e0c74c8fe3b39f46946061f6729c6924ad",
+  "lint": "0 errors, 6 warnings"
+}

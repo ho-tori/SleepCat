@@ -1,0 +1,23 @@
+[
+  {
+    "check": "sleep ring start-handle drag",
+    "before": "24小时双端睡眠环，就寝00:00，起床08:00",
+    "after": "24小时双端睡眠环，就寝05:45，起床08:00"
+  },
+  {
+    "check": "quick plan saved then process restarted",
+    "result": "home-saved-plan.png"
+  },
+  {
+    "check": "two postponements escalate mixed reminder",
+    "result": "passed"
+  },
+  {
+    "check": "skip tonight confirmation",
+    "result": "passed"
+  },
+  {
+    "check": "routine incomplete confirmation then countdown home",
+    "result": "passed"
+  }
+]

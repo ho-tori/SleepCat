@@ -1,0 +1,895 @@
+[
+  {
+    "name": "welcome",
+    "page": "welcome",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "你的夜晚\n不止这一屏",
+        "x": 21,
+        "y": 172.046875,
+        "width": 351,
+        "height": 103.8125,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "820 44px / 51.92px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "51.92px"
+      },
+      {
+        "tag": "welcome-stage",
+        "text": "",
+        "x": 21,
+        "y": 303.859375,
+        "width": 351,
+        "height": 305,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "goal",
+    "page": "goal",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "设置睡眠定时",
+        "x": 21,
+        "y": 150.046875,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      }
+    ]
+  },
+  {
+    "name": "tasks",
+    "page": "tasks",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 1007,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "睡前，做点什么？",
+        "x": 21,
+        "y": 150.046875,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      }
+    ]
+  },
+  {
+    "name": "mode",
+    "page": "mode",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "希望怎么提醒你？",
+        "x": 21,
+        "y": 150.046875,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      }
+    ]
+  },
+  {
+    "name": "permissions",
+    "page": "permissions",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "开启提醒权限",
+        "x": 21,
+        "y": 150.046875,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      }
+    ]
+  },
+  {
+    "name": "home",
+    "page": "home",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "paw-card  ",
+        "text": "GET READY FOR BED\n开始睡前准备\n23:00\n洗澡\n20 分钟\n一键完成\n已完成 0 项，共 2 项",
+        "x": 0,
+        "y": 47,
+        "width": 393,
+        "height": 404.125,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      },
+      {
+        "tag": "eyebrow",
+        "text": "GET READY FOR BED",
+        "x": 20,
+        "y": 76.4375,
+        "width": 117.109375,
+        "height": 13.125,
+        "color": "rgb(172, 118, 82)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "800 9px / 13.14px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "13.14px"
+      },
+      {
+        "tag": "fusion-target-shell home-clock-card",
+        "text": "✦\n✦\n☾\nPUT THE PHONE DOWN\n目标放下手机\n00:00",
+        "x": 0,
+        "y": 451.125,
+        "width": 393,
+        "height": 310.859375,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgb(249, 233, 216)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "tasksEdit",
+    "page": "tasksEdit",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 1070,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "睡前小清单",
+        "x": 21,
+        "y": 102,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(255, 252, 247, 0.98)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "routine",
+    "page": "routine",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "开始睡前准备",
+        "x": 21,
+        "y": 102,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(255, 252, 247, 0.98)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "review",
+    "page": "review",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 1253,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "回顾",
+        "x": 21,
+        "y": 102,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(255, 252, 247, 0.98)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "morning",
+    "page": "morning",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "昨晚几点放下手机？",
+        "x": 21,
+        "y": 102,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(255, 252, 247, 0.98)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "reminderSettings",
+    "page": "reminderSettings",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 1186,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "提醒方式与权限",
+        "x": 21,
+        "y": 102,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(255, 252, 247, 0.98)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "settings",
+    "page": "settings",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "我的设置",
+        "x": 21,
+        "y": 102,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(255, 252, 247, 0.98)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "schedules",
+    "page": "schedules",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "所有定时",
+        "x": 21,
+        "y": 102,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(255, 252, 247, 0.98)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "scheduleEditor",
+    "page": "scheduleEditor",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 932,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "添加定时",
+        "x": 21,
+        "y": 102,
+        "width": 351,
+        "height": 38.390625,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 30px / 38.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "38.4px"
+      }
+    ]
+  },
+  {
+    "name": "outside-light",
+    "page": "outside",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 845,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      }
+    ]
+  },
+  {
+    "name": "outside-strong",
+    "page": "outside",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 845,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "",
+        "text": "喂！\n不许再刷啦！",
+        "x": 88.796875,
+        "y": 85.046875,
+        "width": 215.40625,
+        "height": 88.78125,
+        "color": "rgb(255, 244, 233)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 37px / 44.4px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "44.4px"
+      }
+    ]
+  },
+  {
+    "name": "home-expanded",
+    "page": "home",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "paw-card is-expanded ",
+        "text": "GET READY FOR BED\n洗澡\n20 分钟\n刷牙护肤\n10 分钟\n一键完成\n已完成 0 项，共 2 项",
+        "x": 0,
+        "y": 47,
+        "width": 393,
+        "height": 441,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      },
+      {
+        "tag": "eyebrow",
+        "text": "GET READY FOR BED",
+        "x": 20,
+        "y": 76.4375,
+        "width": 117.109375,
+        "height": 13.125,
+        "color": "rgb(172, 118, 82)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "800 9px / 13.14px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "13.14px"
+      },
+      {
+        "tag": "fusion-target-shell home-clock-card",
+        "text": "✦\n✦\n☾\nPUT THE PHONE DOWN\n目标放下手机\n00:00",
+        "x": 0,
+        "y": 488,
+        "width": 393,
+        "height": 204,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgb(249, 233, 216)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "home-edit",
+    "page": "home",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 817,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "paw-card is-editing",
+        "text": "调整今晚清单\n洗澡\n20 分钟\n刷牙护肤\n10 分钟\n＋ 添加事项\n编辑日常清单",
+        "x": 0,
+        "y": 47,
+        "width": 393,
+        "height": 373,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      },
+      {
+        "tag": "fusion-target-shell home-clock-card",
+        "text": "✦\n✦\n☾\nPUT THE PHONE DOWN\n目标放下手机\n00:00",
+        "x": 0,
+        "y": 420,
+        "width": 393,
+        "height": 204,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgb(249, 233, 216)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  },
+  {
+    "name": "home-ring",
+    "page": "home",
+    "phone": {
+      "width": 393,
+      "height": 852
+    },
+    "scrollHeight": 1143,
+    "elements": [
+      {
+        "tag": "",
+        "text": "SleepCat V5.14 · 首页融合",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "810 21px / 26.88px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "26.88px"
+      },
+      {
+        "tag": "paw-card is-expanded ",
+        "text": "GET READY FOR BED\n洗澡\n20 分钟\n刷牙护肤\n10 分钟\n一键完成\n已完成 0 项，共 2 项",
+        "x": 0,
+        "y": -279,
+        "width": 393,
+        "height": 441,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      },
+      {
+        "tag": "eyebrow",
+        "text": "GET READY FOR BED",
+        "x": 20,
+        "y": -249.5625,
+        "width": 117.109375,
+        "height": 13.125,
+        "color": "rgb(172, 118, 82)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "800 9px / 13.14px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "13.14px"
+      },
+      {
+        "tag": "fusion-target-shell home-clock-card is-editing",
+        "text": "✦\n✦\n☾\nPUT THE PHONE DOWN\n目标放下手机\n00:00\n调整就寝与起床时间\n就寝\n00:00\n起床\n08:00\n0\n2\n4\n6\n8\n10\n12\n14\n16\n18\n20\n22\n\n8 小时",
+        "x": 0,
+        "y": 162,
+        "width": 393,
+        "height": 600,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      },
+      {
+        "tag": "fusion-sr-only",
+        "text": "调整就寝与起床时间",
+        "x": 15,
+        "y": 197.5,
+        "width": 1,
+        "height": 1,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgba(0, 0, 0, 0)",
+        "font": "700 22px / 28.6px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "28.6px"
+      },
+      {
+        "tag": "nav",
+        "text": "首页\n回顾\n我的",
+        "x": 0,
+        "y": 774,
+        "width": 393,
+        "height": 78,
+        "color": "rgb(57, 44, 41)",
+        "background": "rgb(249, 233, 216)",
+        "font": "14px / 20.44px -apple-system, BlinkMacSystemFont, \"PingFang SC\", \"Microsoft YaHei\", sans-serif",
+        "lineHeight": "20.44px"
+      }
+    ]
+  }
+]
